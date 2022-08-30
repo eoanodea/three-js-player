@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;EACE,uBAAuB;EACvB,kBAAkB;EAClB,MAAM;EACN,SAAS;EACT,OAAO;EACP,QAAQ;AACV","sources":["webpack://three-js-player/./src/style.css"],"sourcesContent":["body {\n  background-color: black;\n  position: absolute;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n}\n"],"names":[],"sourceRoot":""}
